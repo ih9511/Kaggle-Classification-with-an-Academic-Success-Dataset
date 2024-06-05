@@ -1,0 +1,3 @@
+C:\Users\USER\.kaggle 폴더 생성 후
+
+kaggle.json 넣기
